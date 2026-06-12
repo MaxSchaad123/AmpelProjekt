@@ -6,6 +6,7 @@
     },
     "python.terminal.activateEnvironment": false,
     "micropico.openOnStart": true,
+    "micropico.syncFolder": "src",
     "python.analysis.typeshedPaths": [
         "~/.micropico-stubs/included"
     ],
